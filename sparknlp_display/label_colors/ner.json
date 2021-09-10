@@ -26,5 +26,12 @@
     "organism_substance": "#ffaa80",
     "gender": "#ffacb7",
     "age": "#ffe0ac",
-    "date": "#a6b1e1"
+    "date": "#a6b1e1",
+
+    "per": "#a6b1e1",
+    "loc": "#ffe0ac",
+
+    "PK": "#800080",
+    "VALUE": "#77b5fe",
+    "UNITS": "#8b6673"
 }

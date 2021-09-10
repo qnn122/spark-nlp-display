@@ -31,6 +31,7 @@ setuptools.setup(
         'ipython',
         'svgwrite==1.4',
         'pandas',
-        'numpy'
+        'numpy',
+        'streamlit==0.88.0'
     ]
 )
